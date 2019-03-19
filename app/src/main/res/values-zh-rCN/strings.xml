@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">汽油或乙醇</string>
+    <string name="gas_liter">每升气体价格:</string>
+    <string name="ethanol_liter">每升乙醇的价格:</string>
+    <string name="its_better_to_use">最好使用...</string>
+    <string name="gasoline">汽油</string>
+    <string name="ethanol">乙醇</string>
+    <string name="fuel_content_description">燃料</string>
+</resources>
